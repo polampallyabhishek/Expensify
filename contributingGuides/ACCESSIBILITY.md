@@ -8,7 +8,7 @@
 
 - **PressableWithoutFeedback**: A pressable component without any visual or haptic feedback.
 
-- **PressableWithoutFocus**: A pressable component without visible efect of focus.
+- **PressableWithoutFocus**: A pressable component without visible effect of focus.
 
 - **PressableWithDelayToggle**:  A pressable component that briefly disables then re-enables after a short delay upon pressing.
 
